@@ -5,8 +5,8 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <!-- Replace "images/banner.png" with your actual banner image -->
-  <img src="images/banner.png" alt="Snigdha Manna Profile Banner" width="100%">
+  <!-- Replace "images/banner.png" with your actual banner image 
+  <img src="images/banner.png" alt="Snigdha Manna Profile Banner" width="100%">-->
 </p>
 
 <!-- ===================================================== -->
@@ -111,9 +111,7 @@ I'm always curious to learn new technologies, improve my problem-solving skills,
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 
@@ -165,11 +163,7 @@ A Django-based web application for managing bookstore records and performing CRU
 
 <p align="center">
 
-<img
- src="https://github-readme-stats.vercel.app/api?username=snigdhamanna&show_icons=true&theme=tokyonight&hide_border=true"
- alt="Snigdha's GitHub Stats"
- height="180"
-/>
+
 
 <img
  src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhamanna&theme=tokyonight&hide_border=true"
