@@ -6,7 +6,7 @@
 
 <!-- 2. MAIN TITLE / SUBTITLE -->
 
-<!-- <h2 align="center">Python | Django | Data Analytics | Machine Learning</h2> -->
+<h2 align="center">Python | Django | Data Analytics | Machine Learning</h2> 
 
 <p align="center">
   Building practical applications and learning something new with every project 🚀
@@ -90,11 +90,13 @@ A Django-based social media application featuring user authentication, profiles,
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snigdhamanna&show_icons=true&theme=tokyonight" alt="Snigdha's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhamanna&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snigdhamanna&show_icons=true&theme=tokyonight&hide_border=true" alt="Snigdha's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhamanna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
+
 
 <!-- 10. CONNECT -->
 
